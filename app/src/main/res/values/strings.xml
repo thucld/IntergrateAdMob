@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Integrate AdMob</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Interstitial Ad</string>
+    <string name="btn_rewarded_video">Show Rewarded Video Ad</string>
+    <string name="btn_native_ad">Show Native Ad</string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-3481018937609236~6071758993</string>
+    <string name="banner_home_footer">ca-app-pub-3481018937609236/4997500410</string>
+    <string name="banner_home_footer_dedicated_for_test">	ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_full_screen">ca-app-pub-3481018937609236/4941660096</string>
+    <string name="interstitial_full_screen_dedicated_for_test">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_video">ca-app-pub-3481018937609236/3381591440</string>
+    <string name="rewarded_video_dedicated_for_test">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!-- Check the LogCat to get your test device ID -->
+    <string name="str_test_device_id">5CFBED33509345B7B61AE76CA0CA151B</string>
+    <string name="native_ad_dedicated_for_test">ca-app-pub-3940256099942544/2247696110</string>
+
+</resources>
